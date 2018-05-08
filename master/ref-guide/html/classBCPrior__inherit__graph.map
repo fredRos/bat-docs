@@ -1,0 +1,10 @@
+<map id="BCPrior" name="BCPrior">
+<area shape="rect" id="node2" href="$classBCCauchyPrior.html" title="A class to represent a Cauchy prior of a parameter. " alt="" coords="145,5,258,32"/>
+<area shape="rect" id="node3" href="$classBCConstantPrior.html" title="A class to represent a constant prior of a parameter. " alt="" coords="141,56,262,83"/>
+<area shape="rect" id="node4" href="$classBCGaussianPrior.html" title="A class to represent a gaussian prior of a parameter. " alt="" coords="140,107,263,133"/>
+<area shape="rect" id="node5" href="$classBCPositiveDefinitePrior.html" title="A class to wrap around a BCPrior to make it positive definite. " alt="" coords="121,157,281,184"/>
+<area shape="rect" id="node6" href="$classBCSplitGaussianPrior.html" title="A class to represent a split&#45;Gaussian prior of a parameter. " alt="" coords="127,208,276,235"/>
+<area shape="rect" id="node7" href="$classBCTF1LogPrior.html" title="A class to represent the log of a prior of a parameter by a formula through a TF1. " alt="" coords="145,259,257,285"/>
+<area shape="rect" id="node8" href="$classBCTF1Prior.html" title="A class to represent the prior of a parameter by a formula through a TF1. " alt="" coords="156,309,247,336"/>
+<area shape="rect" id="node9" href="$classBCTH1Prior.html" title="A class to represent the prior of a parameter by a TH1. " alt="" coords="155,360,248,387"/>
+</map>

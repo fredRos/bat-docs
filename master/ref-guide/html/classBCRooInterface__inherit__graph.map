@@ -1,0 +1,5 @@
+<map id="BCRooInterface" name="BCRooInterface">
+<area shape="rect" id="node2" href="$classBCModel.html" title="The base class for all user&#45;defined models. " alt="" coords="29,155,105,181"/>
+<area shape="rect" id="node3" href="$classBCIntegrate.html" title="A class for handling numerical operations for models. " alt="" coords="21,80,113,107"/>
+<area shape="rect" id="node4" href="$classBCEngineMCMC.html" title="An engine class for Markov Chain Monte Carlo. " alt="" coords="5,5,128,32"/>
+</map>

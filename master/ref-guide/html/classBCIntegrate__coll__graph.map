@@ -1,0 +1,12 @@
+<map id="BCIntegrate" name="BCIntegrate">
+<area shape="rect" id="node2" href="$classBCEngineMCMC.html" title="An engine class for Markov Chain Monte Carlo. " alt="" coords="700,164,823,191"/>
+<area shape="rect" id="node3" href="$classBCH2D.html" title="A class for handling 2D distributions. " alt="" coords="340,12,408,39"/>
+<area shape="rect" id="node4" href="$classBCHistogramBase.html" title="A base class for drawing histograms in BAT style. " alt="" coords="45,43,176,69"/>
+<area shape="rect" id="node5" href="$classBCH1D.html" title="A class for handling 1D distributions. " alt="" coords="340,63,408,89"/>
+<area shape="rect" id="node6" href="$classBCParameterSet.html" title="Wrapper to allow access by name into list of BCParameter. " alt="" coords="313,113,435,140"/>
+<area shape="rect" id="node7" href="$classBCVariableSet.html" title="BCVariableSet\&lt; BCParameter \&gt;" alt="" coords="5,113,216,140"/>
+<area shape="rect" id="node8" href="$structBCEngineMCMC_1_1Statistics.html" title="A struct for holding statistical information about samples. " alt="" coords="281,164,467,191"/>
+<area shape="rect" id="node9" href="$classBCAux_1_1BCTrash.html" title="BCAux::BCTrash\&lt; TObject \&gt;" alt="" coords="277,215,471,241"/>
+<area shape="rect" id="node10" href="$classBCVariableSet.html" title="BCVariableSet\&lt; BCObservable \&gt;" alt="" coords="265,265,483,292"/>
+<area shape="rect" id="node11" href="$structBCEngineMCMC_1_1ChainState.html" title="A struct for holding a state in a Markov chain. " alt="" coords="276,316,472,343"/>
+</map>

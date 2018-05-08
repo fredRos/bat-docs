@@ -1,0 +1,8 @@
+<map id="BCFitter" name="BCFitter">
+<area shape="rect" id="node5" href="$classBCEfficiencyFitter.html" title="A class for fitting histograms with functions. " alt="" coords="5,304,135,331"/>
+<area shape="rect" id="node6" href="$classBCGraphFitter.html" title="A class for fitting graphs with functions. " alt="" coords="159,304,266,331"/>
+<area shape="rect" id="node7" href="$classBCHistogramFitter.html" title="A class for fitting histograms with functions. " alt="" coords="290,304,421,331"/>
+<area shape="rect" id="node2" href="$classBCModel.html" title="The base class for all user&#45;defined models. " alt="" coords="175,155,251,181"/>
+<area shape="rect" id="node3" href="$classBCIntegrate.html" title="A class for handling numerical operations for models. " alt="" coords="167,80,259,107"/>
+<area shape="rect" id="node4" href="$classBCEngineMCMC.html" title="An engine class for Markov Chain Monte Carlo. " alt="" coords="151,5,274,32"/>
+</map>

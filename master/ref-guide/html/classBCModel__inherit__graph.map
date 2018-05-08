@@ -1,0 +1,12 @@
+<map id="BCModel" name="BCModel">
+<area shape="rect" id="node4" href="$classBCEmptyModel.html" title="An empty model, used for reading in a chain. " alt="" coords="38,229,153,256"/>
+<area shape="rect" id="node5" href="$classBCFitter.html" title="A base class for all fitting classes. " alt="" coords="177,229,248,256"/>
+<area shape="rect" id="node9" href="$classBCMTF.html" title="A class for fitting several templates to a data set. " alt="" coords="272,229,340,256"/>
+<area shape="rect" id="node10" href="$classBCPriorModel.html" title="Class for sampling from prior of a BCModel. " alt="" coords="364,229,467,256"/>
+<area shape="rect" id="node11" href="$classBCRooInterface.html" title="Interface allowing to run BAT on a problem/data defined in a standard RooFit workspace format..." alt="" coords="491,229,607,256"/>
+<area shape="rect" id="node2" href="$classBCIntegrate.html" title="A class for handling numerical operations for models. " alt="" coords="260,80,352,107"/>
+<area shape="rect" id="node3" href="$classBCEngineMCMC.html" title="An engine class for Markov Chain Monte Carlo. " alt="" coords="245,5,367,32"/>
+<area shape="rect" id="node6" href="$classBCEfficiencyFitter.html" title="A class for fitting histograms with functions. " alt="" coords="5,304,135,331"/>
+<area shape="rect" id="node7" href="$classBCGraphFitter.html" title="A class for fitting graphs with functions. " alt="" coords="159,304,266,331"/>
+<area shape="rect" id="node8" href="$classBCHistogramFitter.html" title="A class for fitting histograms with functions. " alt="" coords="290,304,421,331"/>
+</map>

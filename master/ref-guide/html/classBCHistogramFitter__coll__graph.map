@@ -1,0 +1,17 @@
+<map id="BCHistogramFitter" name="BCHistogramFitter">
+<area shape="rect" id="node2" href="$classBCFitter.html" title="A base class for all fitting classes. " alt="" coords="1489,163,1560,189"/>
+<area shape="rect" id="node3" href="$classBCModel.html" title="The base class for all user&#45;defined models. " alt="" coords="1273,85,1349,112"/>
+<area shape="rect" id="node16" href="$classBCPriorModel.html" title="Class for sampling from prior of a BCModel. " alt="" coords="1473,68,1576,95"/>
+<area shape="rect" id="node4" href="$classBCIntegrate.html" title="A class for handling numerical operations for models. " alt="" coords="1071,121,1163,148"/>
+<area shape="rect" id="node5" href="$classBCEngineMCMC.html" title="An engine class for Markov Chain Monte Carlo. " alt="" coords="700,176,823,203"/>
+<area shape="rect" id="node6" href="$classBCH2D.html" title="A class for handling 2D distributions. " alt="" coords="340,72,408,99"/>
+<area shape="rect" id="node7" href="$classBCHistogramBase.html" title="A base class for drawing histograms in BAT style. " alt="" coords="45,52,176,79"/>
+<area shape="rect" id="node8" href="$classBCH1D.html" title="A class for handling 1D distributions. " alt="" coords="340,21,408,48"/>
+<area shape="rect" id="node9" href="$classBCParameterSet.html" title="Wrapper to allow access by name into list of BCParameter. " alt="" coords="313,191,435,217"/>
+<area shape="rect" id="node10" href="$classBCVariableSet.html" title="BCVariableSet\&lt; BCParameter \&gt;" alt="" coords="5,191,216,217"/>
+<area shape="rect" id="node11" href="$structBCEngineMCMC_1_1Statistics.html" title="A struct for holding statistical information about samples. " alt="" coords="281,241,467,268"/>
+<area shape="rect" id="node12" href="$classBCAux_1_1BCTrash.html" title="BCAux::BCTrash\&lt; TObject \&gt;" alt="" coords="277,292,471,319"/>
+<area shape="rect" id="node13" href="$classBCVariableSet.html" title="BCVariableSet\&lt; BCObservable \&gt;" alt="" coords="265,343,483,369"/>
+<area shape="rect" id="node14" href="$structBCEngineMCMC_1_1ChainState.html" title="A struct for holding a state in a Markov chain. " alt="" coords="276,140,472,167"/>
+<area shape="rect" id="node15" href="$classBCDataSet.html" title="A class representing a set of data points. " alt="" coords="1072,177,1161,204"/>
+</map>
